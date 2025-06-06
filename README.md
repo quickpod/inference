@@ -1,4 +1,4 @@
-This is a guide to setup INFERENCE.SUPPLY (KUZCO) worker on quickpod
+This is a guide to setup INFERENCE.SUPPLY (KUZCO) EPOCH 3 worker on quickpod
 Get your worker code as follows from [https://devnet.inference.net/dashboard](url)
 
 ![image](https://github.com/user-attachments/assets/2195faed-f0d1-491d-9e24-195514745846)
