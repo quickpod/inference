@@ -17,5 +17,7 @@ Please note Docker Entrypoint Run Options are different field from Docker Option
 
 Select the template and searcch for your pod and create the pod, depending on the download speed of the machine the pod will be ready in 10-30 minutes or so
 
+Make sure to adhere to the hardware requirements, please note RTX 4000 series cards with 16GB VRAM like 4060 ti and 4070 ti are supported.
+
 Enjoy!!!
 
