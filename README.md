@@ -9,11 +9,11 @@ Search for Inference or Kuzco in the template page of quickpod
 
 and click on clone to clone the template under your private templates
 
-edit the section "Docker Entrypoint Run Options" as follows
+edit the section "Docker Entrypoint Run Options" as follows with the code you obtained from inference dashboard
 
 ![image](https://github.com/user-attachments/assets/8d52fcbc-084d-4521-a454-03ab28b744d6)
 
-Please not Docker Entrypoint Run Options are different field from Docker Options used int the Epoc 2 worker
+Please note Docker Entrypoint Run Options are different field from Docker Options used in the Epoch 2 worker
 
 Select the template and searcch for your pod and create the pod, depending on the download speed of the machine the pod will be ready in 10-30 minutes or so
 
